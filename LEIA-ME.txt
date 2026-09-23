@@ -1,0 +1,13 @@
+ACERVO DE REFERÊNCIA — POPs E FLUXOS DE ADMINISTRAÇÃO — HU BRASIL
+Abra index.html para pesquisar e acessar os PDFs, sem internet.
+
+44 documentos: 32 nas quatro unidades e 12 interfaces.
+Período: emissão/revisão de 2025 em diante; consulta em 22–23/09/2026.
+Os PDFs são originais, sem alterações. Os hashes SHA-256 estão no catálogo.
+
+Pastas: hospital / unidade ou 05_Interfaces.
+index.html: catálogo pesquisável.
+cobertura.html: 42 portais pesquisados, limitações, exclusões e pendências.
+catalogo.csv: tabela UTF-8 com separador ponto e vírgula.
+
+A coleta é limitada ao material público localizado e acessível. Não assegura a totalidade dos POPs existentes na rede. Próxima revisão em 2025 não torna um POP de 2023 elegível. Atualização do site não foi usada como data da versão. Versões anteriores localizadas foram excluídas. A classificação por área é para consulta, preservando a unidade de origem.

@@ -1,0 +1,380 @@
+[
+  {
+    "hospital": "HC-UFG - Hospital das Clínicas da UFG",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-centro-oeste/hc-ufg",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 2,
+    "paginas_com_erro": 0,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HUB-UnB - Hospital Universitário de Brasília",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-centro-oeste/hub-unb",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 1,
+    "paginas_com_erro": 0,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HUJM-UFMT - Hospital Universitário Júlio Müller",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-centro-oeste/hujm-ufmt",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 10,
+    "paginas_com_erro": 1,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "Humap-UFMS - Hospital Universitário Maria Aparecida Pedrossian",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-centro-oeste/humap-ufms",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 14,
+    "paginas_com_erro": 8,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-UFCAT - Hospital Universitário da Universidade Federal de Catalão - Adib Elias",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-centro-oeste/hu-ufcat",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 6,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-UFGD - Hospital Universitário da Grande Dourados",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-centro-oeste/hu-ufgd",
+    "arquivos_entregues": 5,
+    "paginas_consultadas": 28,
+    "paginas_com_erro": 13,
+    "busca_indexada": true,
+    "resultado": "Arquivos elegíveis entregues; cobertura pública parcial"
+  },
+  {
+    "hospital": "CH-UFC - Complexo Hospitalar da UFC",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/ch-ufc",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 11,
+    "paginas_com_erro": 5,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HC-UFPE - Hospital das Clínicas da UFPE",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hc-ufpe",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 7,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "Huab-UFRN - Hospital Universitário Ana Bezerra",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/huab-ufrn",
+    "arquivos_entregues": 1,
+    "paginas_consultadas": 17,
+    "paginas_com_erro": 12,
+    "busca_indexada": true,
+    "resultado": "Arquivos elegíveis entregues; cobertura pública parcial"
+  },
+  {
+    "hospital": "HUAC-UFCG - Hospital Universitário Alcides Carneiro",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/huac-ufcg",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 27,
+    "paginas_com_erro": 14,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HUJB-UFCG - Hospital Universitário Júlio Bandeira",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hujb-ufcg",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 15,
+    "paginas_com_erro": 7,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HUL-UFS - Hospital Universitário de Lagarto",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hul-ufs",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 4,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HULW-UFPB - Hospital Universitário Lauro Wanderley",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hulw-ufpb",
+    "arquivos_entregues": 18,
+    "paginas_consultadas": 89,
+    "paginas_com_erro": 66,
+    "busca_indexada": true,
+    "resultado": "Arquivos elegíveis entregues; cobertura pública parcial"
+  },
+  {
+    "hospital": "Huol-UFRN - Hospital Universitário Onofre Lopes",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/huol-ufrn",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 4,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HUPAA-Ufal - Hospital Universitário Professor Alberto Antunes",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hupaa-ufal",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 13,
+    "paginas_com_erro": 12,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "Hupes-UFBA - Hospital Universitário Professor Edgard Santos",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hupes-ufba",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 3,
+    "paginas_com_erro": 2,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-UFMA - Hospital Universitário da UFMA",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufma",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 7,
+    "paginas_com_erro": 5,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-UFPI - Hospital Universitário do Piauí",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufpi",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 6,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-UFS - Hospital Universitário da UFS",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hu-ufs",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 5,
+    "paginas_com_erro": 4,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-Univasf - Hospital de Ensino Dr. Washington Antônio de Barros",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/hu-univasf",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 6,
+    "paginas_com_erro": 4,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "MCO-UFBA - Maternidade Climério de Oliveira",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/mco-ufba",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 3,
+    "paginas_com_erro": 2,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "MEJC-UFRN - Maternidade Escola Januário Cicco",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-nordeste/mejc-ufrn",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 4,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "CHU-UFPA - Complexo Hospitalar Universitário da UFPA",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-norte/chu-ufpa",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 4,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HDT-UFNT - Hospital de Doenças Tropicais da UFNT",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-norte/hdt-ufnt",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 23,
+    "paginas_com_erro": 13,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HUGV-Ufam - Hospital Universitário Getúlio Vargas",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-norte/hugv-ufam",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 4,
+    "paginas_com_erro": 2,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-UFRR - Hospital Universitário da Universidade Federal de Roraima",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-norte/hu-ufrr",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 4,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-Unifap - Hospital Universitário da Unifap",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-norte/hu-unifap",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 5,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "CH-UFRJ - Complexo Hospitalar da Universidade Federal do Rio de Janeiro",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/ch-ufrj",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 4,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HC-UFMG - Hospital das Clínicas da UFMG",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hc-ufmg",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 3,
+    "paginas_com_erro": 2,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HC-UFTM - Hospital de Clínicas da UFTM",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hc-uftm",
+    "arquivos_entregues": 20,
+    "paginas_consultadas": 29,
+    "paginas_com_erro": 17,
+    "busca_indexada": true,
+    "resultado": "Arquivos elegíveis entregues; cobertura pública parcial"
+  },
+  {
+    "hospital": "HC-UFU - Hospital de Clínicas da Universidade Federal de Uberlândia",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hc-ufu",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 6,
+    "paginas_com_erro": 4,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "Huap-UFF - Hospital Universitário Antônio Pedro",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/huap-uff",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 15,
+    "paginas_com_erro": 12,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "Hucam-Ufes - Hospital Universitário Cassiano Antônio Moraes",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hucam-ufes",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 11,
+    "paginas_com_erro": 8,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HUSE-Unirio - Hospital Universitário dos Servidores do Estado",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/huse-unirio",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 6,
+    "paginas_com_erro": 4,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-UFJF - Hospital Universitário da UFJF",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hu-ufjf",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 20,
+    "paginas_com_erro": 16,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-UFSCar - Hospital Universitário da UFSCar",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hu-ufscar",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 4,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-UFSJ - Hospital Universitário da Universidade Federal de São João del-Rei",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sudeste/hu-ufsj",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 3,
+    "paginas_com_erro": 2,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "CHC-UFPR - Complexo do Hospital de Clínicas da UFPR",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/chc-ufpr",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 4,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HE-UFPel - Hospital Escola da UFPel",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/he-ufpel",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 4,
+    "paginas_com_erro": 3,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-Furg - Hospital Universitário Dr. Miguel Riet Corrêa Jr.",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/hu-furg",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 6,
+    "paginas_com_erro": 5,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HUSM-UFSM - Hospital Universitário de Santa Maria",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/husm-ufsm",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 9,
+    "paginas_com_erro": 7,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  },
+  {
+    "hospital": "HU-UFSC - Hospital Universitário da UFSC",
+    "portal": "https://www.gov.br/hubrasil/pt-br/hospitais-universitarios/regiao-sul/hu-ufsc",
+    "arquivos_entregues": 0,
+    "paginas_consultadas": 9,
+    "paginas_com_erro": 8,
+    "busca_indexada": true,
+    "resultado": "Nenhum arquivo elegível confirmado nesta busca; não significa inexistência"
+  }
+]
